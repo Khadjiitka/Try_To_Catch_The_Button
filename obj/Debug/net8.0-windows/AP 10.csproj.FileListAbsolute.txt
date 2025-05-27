@@ -1,0 +1,17 @@
+C:\Users\Gidroid\source\repos\AP 10\bin\Debug\net8.0-windows\AP 10.exe
+C:\Users\Gidroid\source\repos\AP 10\bin\Debug\net8.0-windows\AP 10.deps.json
+C:\Users\Gidroid\source\repos\AP 10\bin\Debug\net8.0-windows\AP 10.runtimeconfig.json
+C:\Users\Gidroid\source\repos\AP 10\bin\Debug\net8.0-windows\AP 10.dll
+C:\Users\Gidroid\source\repos\AP 10\bin\Debug\net8.0-windows\AP 10.pdb
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP_10.Form1.resources
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.dll
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\refint\AP 10.dll
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.pdb
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP 10.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\ref\AP 10.dll
+C:\Users\Gidroid\source\repos\AP 10\obj\Debug\net8.0-windows\AP_10.Properties.Resources.resources
